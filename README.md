@@ -13,7 +13,9 @@
   - src                 ---> to put codes, template file or other files necessary to run the project
 
 - [researches]          ---> used to save researches that members found 
-  
+
+
+## GITHUB PRACTICE 
   
 ## Basic Git Commands That You Might Need
 - `git clone <remote_URL>`                      --> To create local copy of an existing remote repository, here you could do this 'git clone https://github.com/kevingyk6854/STDS_Data_Geeks_Agriculture.git'
